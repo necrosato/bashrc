@@ -1,6 +1,6 @@
 alias ll="ls -al"
 PATH="$PATH:~/bin"
-[[ -s ~/.bashrc ]] && source .bashrc
+[[ -s ~/.bashrc ]] && source ~/.bashrc
 
 # Setting PATH for Python 3.5
 # The orginal version is saved in .bash_profile.pysave
