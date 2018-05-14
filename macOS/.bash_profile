@@ -1,4 +1,4 @@
-alias ll="ls -al"
+alias la="ls -al"
 PATH="$PATH:~/bin"
 [[ -s ~/.bashrc ]] && source ~/.bashrc
 
