@@ -1,0 +1,3 @@
+[submodule "revl/.bash/git-aware-prompt"]
+	path = revl/.bash/git-aware-prompt
+	url = https://github.com/jimeh/git-aware-prompt
